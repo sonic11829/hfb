@@ -4,7 +4,10 @@
 body {
   margin-top:20px;
   font-family: Osaka;
-  background-color: ghostwhite;
+  background-color: #fdfcf1;
+  /*
+  My color is way better than whoever picked that awful color
+  */
   color: inherit;
 }
 
